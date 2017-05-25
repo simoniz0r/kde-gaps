@@ -2,9 +2,9 @@
 Name=AeroGlow-Oxygen
 Comment=Based on Aeroambience and Tenuto-Light-ActiveGlow, decoration.svgz is under GPLV2 the rest of the svgzs are under GPLv3
 
-X-KDE-PluginInfo-Author=Pouar
-X-KDE-PluginInfo-Email=thepouar@gmail.com
-X-KDE-PluginInfo-Name=AeroGlow-Oxygen
+X-KDE-PluginInfo-Author=simonizor
+X-KDE-PluginInfo-Email=simonizor@protonmail.com
+X-KDE-PluginInfo-Name=KDE-gaps-glow
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
